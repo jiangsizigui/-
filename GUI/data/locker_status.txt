@@ -1,0 +1,9 @@
+S001,SMALL,false,null,null,0
+S002,SMALL,false,null,null,0
+S003,SMALL,false,null,null,0
+S004,SMALL,false,null,null,0
+S005,SMALL,false,null,null,0
+M001,MEDIUM,false,null,null,1734675442258
+M002,MEDIUM,false,null,null,0
+M003,MEDIUM,false,null,null,0
+L001,LARGE,false,null,null,1734675428238
